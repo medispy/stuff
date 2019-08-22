@@ -1,0 +1,77 @@
+[16:35:56] [Client thread/INFO]: Setting user: steeleman06
+[16:35:59] [Client thread/WARN]: Skipping bad option: lastServer:
+[16:35:59] [Client thread/INFO]: LWJGL Version: 3.2.2 build 10
+[16:36:02] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[16:36:07] [Client thread/INFO]: OpenAL initialized.
+[16:36:07] [Client thread/INFO]: Sound engine started
+[16:36:07] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:36:08] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[16:36:08] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[16:36:08] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[16:36:26] [Client thread/INFO]: Reloading ResourceManager: Default, Rodrigo's Pack (1.13).zip
+[16:36:27] [Server-Worker-8/WARN]: Texture minecraft:item/filled_map_markings with size 8x8 limits mip level from 4 to 3
+[16:36:27] [Server-Worker-8/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[16:36:27] [Client thread/INFO]: OpenAL initialized.
+[16:36:27] [Client thread/INFO]: Sound engine started
+[16:36:27] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:36:27] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[16:36:27] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[16:36:28] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[16:36:34] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:36:34] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:34] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:34] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:36:34] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:36:34] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[16:36:34] [Server thread/INFO]: Generating keypair
+[16:36:34] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:36:34] [Server thread/INFO]: Loaded 6 recipes
+[16:36:35] [Server thread/INFO]: Loaded 811 advancements
+[16:36:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:36:35] [Client thread/INFO]: Preparing spawn area: 0%
+[16:36:35] [Client thread/INFO]: Preparing spawn area: 0%
+[16:36:37] [Client thread/INFO]: Preparing spawn area: 83%
+[16:36:37] [Client thread/INFO]: Preparing spawn area: 83%
+[16:36:37] [Client thread/INFO]: Preparing spawn area: 83%
+[16:36:37] [Client thread/INFO]: Preparing spawn area: 83%
+[16:36:38] [Client thread/INFO]: Preparing spawn area: 95%
+[16:36:38] [Client thread/INFO]: Preparing spawn area: 99%
+[16:36:38] [Client thread/INFO]: Time elapsed: 3602 ms
+[16:36:40] [Server thread/INFO]: steeleman06[local:E:ab69682a] logged in with entity id 33 at (136.69999998807907, 67.0625, 45.27182396180437)
+[16:36:40] [Server thread/INFO]: steeleman06 joined the game
+[16:36:41] [Server thread/INFO]: Saving and pausing game...
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_end
+[16:36:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:overworld
+[16:36:41] [Client thread/INFO]: Loaded 161 advancements
+[16:36:41] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[16:36:42] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_nether
+[16:36:48] [Server thread/INFO]: Saving and pausing game...
+[16:36:48] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_end
+[16:36:48] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:overworld
+[16:36:48] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_nether
+[16:37:08] [Client thread/INFO]: [CHAT] Unknown command
+[16:37:08] [Client thread/INFO]: [CHAT] /msg<--[HERE]
+[16:37:14] [Client thread/INFO]: [CHAT] Unknown command
+[16:37:14] [Client thread/INFO]: [CHAT] /time set<--[HERE]
+[16:37:16] [Server thread/INFO]: [steeleman06: Set the time to 1000]
+[16:37:16] [Client thread/INFO]: [CHAT] Set the time to 1000
+[16:39:41] [Server thread/INFO]: Saving and pausing game...
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_end
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:overworld
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_nether
+[16:39:41] [Server thread/INFO]: steeleman06 lost connection: Disconnected
+[16:39:41] [Server thread/INFO]: steeleman06 left the game
+[16:39:41] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:39:41] [Server thread/INFO]: Stopping server
+[16:39:41] [Server thread/INFO]: Saving players
+[16:39:41] [Server thread/INFO]: Saving worlds
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_end
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:overworld
+[16:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (acelok): All chunks are saved
+[16:39:42] [Server thread/INFO]: Saving chunks for level 'acelok'/minecraft:the_nether
+[16:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (acelok): All chunks are saved
+[16:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:43] [Client thread/INFO]: Stopping!
